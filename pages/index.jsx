@@ -13,7 +13,7 @@ export default function Home({ painting }) {
                 <Link href="/">Home</Link>
               </li>
               <li className="mx-2 text-gray-400 hover:text-gray-600 duration-200">
-                <Link href="https://www.instagram.com/_249cm/">Profile</Link>
+                <Link href="./profile">Profile</Link>
               </li>
               <li className="mx-2 text-gray-400 hover:text-gray-600 duration-200">
                 <Link href="https://www.instagram.com/_249cm/">Instagram</Link>
