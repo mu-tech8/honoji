@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Home({ painting }) {
   return (
     <div>
-      <h1>さとう　ほなつ</h1>
+      <div>さとう　ほなつ</div>
       <p>
         生まれ育った小さな港町を素材に「この世にあって欲しいもの」を作っています。
       </p>
